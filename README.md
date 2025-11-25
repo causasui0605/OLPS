@@ -68,29 +68,4 @@ FOLDERS
 
 ./Log: experimental details of any strategy on any data set.
 
-CONTACT
-=======
 
-Dr. Steven Hoi  
-
-E-mail: chhoi@smu.edu.sg
-School of Information Systems
-Singapore Management University
-80 Stamford Road
-Singapore 178902 
-
-Dr. Bin LI  
-
-E-mail: binli.whu@whu.edu.cn
-Economics and Management School
-Wuhan University
-Wuhan, P.R. China 430072
-
-MORE INFO
-=========
-
-OLPS project website: http://OLPS.stevenhoi.org/
-
-
-This version:
-OLPS 1.1.0, released June 20, 2015.
